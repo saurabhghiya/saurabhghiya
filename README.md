@@ -6,7 +6,7 @@
 💡 &nbsp;I'm a Full Stack Developer (MERN) aspiring to build appealing apps that are scalable and efficient\
 🎓 &nbsp;I'm an alumnus of [VNIT Nagpur](https://vnit.ac.in/) \
 🎓 &nbsp;I'm currently studying Software Development - MERN Stack at the [Scaler Academy](https://www.scaler.com) \
-🛠 &nbsp;My recent personal project was building a [Movie Database App](https://movies-app-sg.netlify.app/) made using React & Tailwind \
+🛠 &nbsp;My recent personal project was building a [BookMyShow Clone]([https://movies-app-sg.netlify.app/](https://bookmyshow-clone-hw3i.onrender.com/)) made using MERN Stack\
 🌱 &nbsp;Helped businesses grow as a Commercial Photographer/Cinematographer for past 10+ years\
 🌱 &nbsp;Looking to collaborate for exciting projects making the world a better place to live\
 ✉️ &nbsp;You can email me at saurabhghiya@gmail.com
