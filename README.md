@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm an alumnus of [VNIT Nagpur](https://vnit.ac.in/) \
 🎓 &nbsp;I'm currently studying Software Development - MERN Stack at the [Scaler Academy](https://www.scaler.com) \
 🛠 &nbsp;My recent personal project was building a [BookMyShow Clone](https://bookmyshow-clone-hw3i.onrender.com/) made using MERN Stack\
-🌱 &nbsp;Helped businesses grow as a Commercial Photographer/Cinematographer for past 10+ years\
+🌱 &nbsp;Passionate about web development and visual communication(UI/UX, Photography)\
 🌱 &nbsp;Looking to collaborate for exciting projects making the world a better place to live\
 ✉️ &nbsp;You can email me at saurabhghiya@gmail.com
 
