@@ -5,11 +5,9 @@
 
 💡 &nbsp;I'm a Full Stack Developer (MERN) aspiring to build appealing apps that are scalable and efficient\
 🎓 &nbsp;I'm an alumnus of [VNIT Nagpur](https://vnit.ac.in/) \
-🎓 &nbsp;I'm currently studying Software Development - MERN Stack at the [Scaler Academy](https://www.scaler.com) \
-🛠 &nbsp;My recent personal project was building a [BookMyShow Clone](https://bookmyshow-clone-hw3i.onrender.com/) made using MERN Stack\
-🌱 &nbsp;Passionate about web development and visual communication(UI/UX, Photography)\
+🎓 &nbsp;I'm currently working as Software Engineer - MERN Stack at Excellon Software Pvt Ltd \
+🌱 &nbsp;Passionate about web development and visual communication\
 🌱 &nbsp;Looking to collaborate for exciting projects making the world a better place to live\
-✉️ &nbsp;You can email me at saurabhghiya@gmail.com
 
 ## 🔧 Latest work
 - [BookMyShow Clone (MERN)](https://bookmyshow-clone-hw3i.onrender.com/)
@@ -20,7 +18,6 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/Tools-DBMS-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
