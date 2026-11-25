@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm an AI / ML Engineer highly self motivated in learning tools and technologies that empower reliable systems solving real world problems\
-🎓 &nbsp;I'm an alumnus of [VNIT Nagpur](https://vnit.ac.in/) \
+🎓 &nbsp;I'm an alumnus of [Scaler Academy](https://scaler.com/) \
 🎓 &nbsp;I'm currently working as Lead Software Engineer at Excellon Software Pvt Ltd \
 🌱 &nbsp;Looking to collaborate for exciting projects making the world a better place to live\
 
