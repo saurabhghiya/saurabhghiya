@@ -3,16 +3,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Full Stack Developer (MERN) aspiring to build appealing apps that are scalable and efficient\
+💡 &nbsp;I'm an AI / ML Engineer highly self motivated in learning tools and technologies that empower reliable systems solving real world problems\
 🎓 &nbsp;I'm an alumnus of [VNIT Nagpur](https://vnit.ac.in/) \
-🎓 &nbsp;I'm currently working as Software Engineer - MERN Stack at Excellon Software Pvt Ltd \
-🌱 &nbsp;Passionate about web development and visual communication\
+🎓 &nbsp;I'm currently working as Lead Software Engineer at Excellon Software Pvt Ltd \
 🌱 &nbsp;Looking to collaborate for exciting projects making the world a better place to live\
-
-## 🔧 Latest work
-- [BookMyShow Clone (MERN)](https://bookmyshow-clone-hw3i.onrender.com/)
-- [Movie Database App](https://movies-app-sg.netlify.app/)
-- [PhotoShare](https://www.figma.com/proto/AjQSLOXcIkfkd7zjh63V1K/PhotoShare-App-UI?node-id=42-89&starting-point-node-id=42%3A89) - In Progress
 
 
 ## 🔧 Technologies & Tools
